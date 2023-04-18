@@ -1,13 +1,8 @@
 Question : Write a program that generates a multiplication table for a given number using a for loop.
 
 
- 
-
 
 Instructions:
-
-
- 
 
 
 Create a JavaScript function called "multiplicationTable" that takes a single argument "num" (an integer) as input.
